@@ -1,0 +1,16 @@
+.titulo {
+    font-size: 3.2em;
+    line-height: 1.1;
+    text-align: center;
+    padding-top: 50px;
+    padding: 0;
+
+}
+
+.container-home {
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

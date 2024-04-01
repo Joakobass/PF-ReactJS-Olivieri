@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "brand": "Chevrolet",
+        "model": "3500",
+        "year": 1995,
+        "img": "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg",
+        "category": "Hatchback",
+        "price": "$457711.09",
+        "desc": "Some quick example text to build on the card title and make up the bulk of the card's content."
+    },
+    {
+        "id": 2,
+        "brand": "Acura",
+        "model": "RL",
+        "year": 2011,
+        "img": "https://images.pexels.com/photos/210019/pexels-photo-210019.jpeg",
+        "category": "Truck",
+        "price": "$168723.07",
+        "desc": "Some quick example text to build on the card title and make up the bulk of the card's content."
+    },
+    {
+        "id": 3,
+        "brand": "Mercedes-Benz",
+        "model": "E-Class",
+        "year": 2009,
+        "img": "https://images.pexels.com/photos/2036544/pexels-photo-2036544.jpeg",
+        "category": "Convertible",
+        "price": "$382164.94",
+        "desc": "Some quick example text to build on the card title and make up the bulk of the card's content."
+    },
+    {
+        "id": 4,
+        "brand": "Lincoln",
+        "model": "Mark VIII",
+        "year": 1996,
+        "img": "https://images.pexels.com/photos/116675/pexels-photo-116675.jpeg",
+        "category": "Hatchback",
+        "price": "$144468.91",
+        "desc": "Some quick example text to build on the card title and make up the bulk of the card's content."
+    },
+    {
+        "id": 5,
+        "brand": "Toyota",
+        "model": "Tacoma",
+        "year": 2010,
+        "img": "https://images.pexels.com/photos/112460/pexels-photo-112460.jpeg",
+        "category": "SUV",
+        "price": "$429449.80",
+        "desc": "Some quick example text to build on the card title and make up the bulk of the card's content."
+    },
+    {
+        "id": 6,
+        "brand": "Subaru",
+        "model": "Legacy",
+        "year": 2002,
+        "img": "https://images.pexels.com/photos/707046/pexels-photo-707046.jpeg",
+        "category": "SUV",
+        "price": "$130223.33",
+        "desc": "Some quick example text to build on the card title and make up the bulk of the card's content."
+    },
+    {
+        "id": 7,
+        "brand": "Ford",
+        "model": "Flex",
+        "year": 2010,
+        "img": "https://images.pexels.com/photos/909907/pexels-photo-909907.jpeg",
+        "category": "Hatchback",
+        "price": "$100920.91",
+        "desc": "Some quick example text to build on the card title and make up the bulk of the card's content."
+    },
+    {
+        "id": 8,
+        "brand": "Lincoln",
+        "model": "Town Car",
+        "year": 1994,
+        "img": "https://images.pexels.com/photos/627678/pexels-photo-627678.jpeg",
+        "category": "SUV",
+        "price": "$449589.04",
+        "desc": "Some quick example text to build on the card title and make up the bulk of the card's content."
+    },
+    {
+        "id": 9,
+        "brand": "Cadillac",
+        "model": "Eldorado",
+        "year": 2001,
+        "img": "https://images.pexels.com/photos/244206/pexels-photo-244206.jpeg",
+        "category": "Truck",
+        "price": "$160776.35",
+        "desc": "Some quick example text to build on the card title and make up the bulk of the card's content."
+    },
+    {
+        "id": 10,
+        "brand": "Mercury",
+        "model": "Tracer",
+        "year": 1996,
+        "img": "https://images.pexels.com/photos/810357/pexels-photo-810357.jpeg",
+        "category": "Convertible",
+        "price": "$401094.29",
+        "desc": "Some quick example text to build on the card title and make up the bulk of the card's content."
+    },
+    {
+        "id": 11,
+        "brand": "Mazda",
+        "model": "RX-7",
+        "year": 1984,
+        "img": "https://images.pexels.com/photos/810357/pexels-photo-810357.jpeg",
+        "category": "Sedan",
+        "price": "$254202.90",
+        "desc": "Some quick example text to build on the card title and make up the bulk of the card's content."
+    },
+    {
+        "id": 12,
+        "brand": "Jeep",
+        "model": "Wrangler",
+        "year": 1994,
+        "img": "https://images.pexels.com/photos/810357/pexels-photo-810357.jpeg",
+        "category": "Sedan",
+        "price": "$223295.55",
+        "desc": "Some quick example text to build on the card title and make up the bulk of the card's content."
+    }
+]

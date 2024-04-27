@@ -1,5 +1,3 @@
-import './titulos.css';
-
 export const Home = () => {
 	return (
 		<div className="container-home">

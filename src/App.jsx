@@ -12,12 +12,13 @@ function App() {
 	return (
 		<>
 			<ToastContainer />
+
 			<CartProvider>
 				<BrowserRouter>
 					<NavBar />
 					<Routes>
-						<Route path="/cart" element={<Cart />} />
 						<Route path="/" element={<Home />} />
+						<Route path="/cart" element={<Cart />} />
 						<Route
 							path="/products"
 							element={<ItemListContainer />}
@@ -27,7 +28,6 @@ function App() {
 							element={<ItemListContainer />}
 						/>
 						<Route path="/item/:id" element={<ProductDetail />} />
-						<Route path="*" element="ERROR 404" />
 					</Routes>
 				</BrowserRouter>
 			</CartProvider>

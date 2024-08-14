@@ -12,7 +12,7 @@ export const NavBar = () => {
 	const cantidadProd = cart.length;
 
 	return (
-		<Navbar className="fondoNav sticky-top">
+		<Navbar className="fondoNav">
 			<Navbar.Brand to="/" as={Link} className="text-links">
 				Automotores Bianca
 			</Navbar.Brand>
